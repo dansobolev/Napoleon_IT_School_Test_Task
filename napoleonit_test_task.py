@@ -33,8 +33,8 @@ class Solution:
         return count
 
 
-instance = Solution()
-print(instance.romanToInt("IV"))  # 4
-print(instance.romanToInt("XC"))  # 90
-print(instance.romanToInt("CM"))  # 900
-print(instance.romanToInt("VLIII"))  # 58
+#instance = Solution()
+#print(instance.romanToInt("IV"))  # 4
+#print(instance.romanToInt("XC"))  # 90
+#print(instance.romanToInt("CM"))  # 900
+#print(instance.romanToInt("VLIII"))  # 58
